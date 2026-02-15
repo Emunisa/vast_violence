@@ -390,7 +390,7 @@ class AbilityObject(NameMixin):
     ATTACK_SKILL = 2
     EXAMINE_SKILL = 3
 
-    BANNED_SKILLS = ['Head Cracker', 'Nue Stomp']
+    BANNED_SKILLS = ['Head Cracker', 'Nue Stomp', 'Paralyzer']
     LEVELUP_BANNED_SKILLS = ['Backhand']
 
     @property
